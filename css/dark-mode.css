@@ -1,0 +1,19 @@
+[data-theme="dark"] {
+  background-color: rgb(30, 30, 30) !important;
+color: rgb(255, 251, 251);
+}
+
+[data-theme="dark"] .bg-light {
+  background-color: #333 !important;
+  color: rgb(255, 255, 255);
+}
+
+[data-theme="dark"] .bg-white {
+  background-color: rgb(255, 255, 255) !important;
+  color: rgb(17, 17, 17);
+}
+
+[data-theme="dark"] .bg-black {
+  background-color: #eee !important;
+  color: #000;
+}
